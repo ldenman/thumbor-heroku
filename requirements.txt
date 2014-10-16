@@ -1,3 +1,4 @@
 thumbor>=4.4.1
 pycurl==7.19.3
+newrelic
 
