@@ -1,4 +1,4 @@
-thumbor>=4.4.1
+thumbor>=4.8.6
 pycurl==7.19.3
 newrelic
 
